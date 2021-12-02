@@ -1,0 +1,32 @@
+.bisque-background{
+    background-color: bisque;
+}
+header{
+    background-color: rgb(176, 230, 200);
+    font-style: italic;
+    font: menu;
+    font-family: cursive;
+    font-weight: 100;
+    color: maroon;
+}
+}
+footer{
+    background-color: rgb(176, 230, 200);
+    font-style: italic;
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: brown;
+}
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+    padding: 10px;
+     }
